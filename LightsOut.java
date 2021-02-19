@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-public class test extends Applet{
+public class LightsOut extends Applet{
 	String msg = "";
 	String msg1 = "";
 	String msg2 = "";
